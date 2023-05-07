@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Local env files
+.env
+
+# Virtual environment
+venv/
+env/
+env_bak/
+ENV/
+
+# Build output
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.pyc
+
