@@ -1,11 +1,11 @@
-from abc import ABC, abstractmethod
+from abc import ABC, abstractmethod  # importando a classe ABC e o decorador abstractmethod
 
-class IServer(ABC):
+class IServer(ABC):  # definindo uma classe abstrata IServer que herda de ABC
     
-    @abstractmethod
+    @abstractmethod  # decorando um método abstrato
     def run(self):
         pass
     
-    @abstractmethod
+    @abstractmethod  # decorando outro método abstrato
     def get_stock_quote(self, symbol):
-        pass
+        pass  # indicando que o corpo do método é vazio e não faz nada
