@@ -1,3 +1,12 @@
+# Trabalho em grupo feito por discentes da disciplina de redes II
+# Rafael Lucas Fernandes Soares
+# Renata Cristina Araújo
+# Igor Miranda da Silva
+# Walter Magno Lopes
+
+# Docente 
+# Alessandro Vivas Andrade
+
 from iserver import IServer  # Importa a classe IServer do módulo iserver
 import socket  # Importa o módulo socket do Python
 

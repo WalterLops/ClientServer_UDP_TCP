@@ -1,3 +1,11 @@
+# Trabalho em grupo feito por discentes da disciplina de redes II
+# Rafael Lucas Fernandes Soares
+# Renata Cristina Araújo
+# Igor Miranda da Silva
+# Walter Magno Lopes
+
+# Docente 
+# Alessandro Vivas Andrade
 
 from iserver import IServer # Biblioteca para criar o servidor
 import socket # Biblioteca para trabalhar com sockets

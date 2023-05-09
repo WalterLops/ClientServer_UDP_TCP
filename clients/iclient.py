@@ -1,3 +1,12 @@
+# Trabalho em grupo feito por discentes da disciplina de redes II
+# Rafael Lucas Fernandes Soares
+# Renata Cristina Araújo
+# Igor Miranda da Silva
+# Walter Magno Lopes
+
+# Docente 
+# Alessandro Vivas Andrade
+
 import abc  
 
 class IClient(abc.ABC):  # Cria uma nova classe chamada IClient que herda de abc.ABC

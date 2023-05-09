@@ -1,3 +1,12 @@
+# Trabalho em grupo feito por discentes da disciplina de redes II
+# Rafael Lucas Fernandes Soares
+# Renata Cristina Araújo
+# Igor Miranda da Silva
+# Walter Magno Lopes
+
+# Docente 
+# Alessandro Vivas Andrade
+
 from iclient import IClient    # importa a interface IClient e utiliza ela como base para a implementação da classe
 import socket                  
 

@@ -1,3 +1,12 @@
+# Trabalho em grupo feito por discentes da disciplina de redes II
+# Rafael Lucas Fernandes Soares
+# Renata Cristina Araújo
+# Igor Miranda da Silva
+# Walter Magno Lopes
+
+# Docente 
+# Alessandro Vivas Andrade
+
 from factory import ClientFactory as cf
 
 if __name__ == "__main__":

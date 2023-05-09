@@ -1,3 +1,12 @@
+# Trabalho em grupo feito por discentes da disciplina de redes II
+# Rafael Lucas Fernandes Soares
+# Renata Cristina Araújo
+# Igor Miranda da Silva
+# Walter Magno Lopes
+
+# Docente 
+# Alessandro Vivas Andrade
+
 import os  # importando o módulo os para lidar com recursos do sistema operacional
 import sys  # importando o módulo sys para ter acesso a variáveis e funções relacionadas ao Python
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'servers')))  # adicionando o caminho absoluto do diretório 'servers' ao caminho do sistema
